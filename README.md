@@ -1,4 +1,0 @@
-mm-template
-===========
-
-Middleman template
