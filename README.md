@@ -1,0 +1,4 @@
+mm-template
+===========
+
+Middleman template
